@@ -1,0 +1,31 @@
+Aptek simulasiyası (Pharmacy simulation)
+
+
+
+TypeDrug class
+ - Id -> hər type drug yarananda avtomatik artacaq
+ - TypeName
+
+
+Drug class
+ - Id -> hər type drug yarananda avtomatik artacaq
+ - Name
+ - Type -> TypeDrug tipində olacaq
+ - Price
+ - Count
+
+ - ToString() -> methodu override edib, drug'ın bütün məlumatlarını yazdırırsınız
+
+
+Pharmacy class
+ - Id -> hər type drug yarananda avtomatik artacaq
+ - Name
+ - Drugs -> Drug array'i
+
+ - ToString() -> methodu override edib, pharmacy'nin Id və Name məlumatlarını yazdırırsınız
+ - AddDrug() -> Drug tipində obyekt qəbul edib, Drugs'a əlavə edir
+ - DrugList() -> Bütün drug'ların siyahısını qaytarır
+ - SaleDrug() -> parametr olaraq drugName, drugCount, money qəbul edir. O deməkdir ki, istifadəçi dərmanın adını,
+ neçə ədəd istədiyini və pulunun miqdarını deyir. Yoxlamalısınız ki, istifadəçinin istədiyi dərman bazada (Drugs arrayi)
+ varmı? Əgər varsa istədiyi sayda varmı? Əgər varsa, pulu çatırmı? Pulu çatırsa dərmanın sayı istifadəçinin aldığı say
+ qədər azalmalıdır və ekrana satıldı yazılmalıdır. Əgər bu şərtlərdən hər hansı biri ödənmirsə, ekrana satılmadı yazılmalıdır.
