@@ -1,0 +1,15 @@
+<----- Custom List ----->
+
+
+class MyList<T>
+
+	T[] Arr - T tipdə array
+	AddList() - T tipdə dəyər qəbul edib, array'ə əlavə edir
+	RemoveList() - T tipdə dəyər qəbul edib, array'dən silir
+	Count() - array'dəki elementlərin sayını göstərir
+	Clear() - array'dəki bütün elementləri silir
+	Find() - T tipdə element qəbul edib, əgər həmin element array'də varsa tapıb qaytarır
+	FindAll() - T tipdə element qəbul edib, array'də həmin elementdən neçə dənə varsa hamısını tapıb geri qaytarır
+	
+	Əlavə olaraq, MyListdən yaratdığınız instance'ın indeksinə dəyər set və get oluna bilməlidir. 
+	Eyni zamanda instance döngüdə istifadə oluna bilməlidir.
