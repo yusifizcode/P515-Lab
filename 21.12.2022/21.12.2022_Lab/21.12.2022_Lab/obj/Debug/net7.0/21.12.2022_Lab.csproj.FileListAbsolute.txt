@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\P515\21.12.2022\21.12.2022_Lab\21.12.2022_Lab\obj\Debug\net7.0\21.12.2022_Lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\P515\21.12.2022\21.12.2022_Lab\21.12.2022_Lab\obj\Debug\net7.0\21.12.2022_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\P515\21.12.2022\21.12.2022_Lab\21.12.2022_Lab\obj\Debug\net7.0\21.12.2022_Lab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\P515\21.12.2022\21.12.2022_Lab\21.12.2022_Lab\obj\Debug\net7.0\21.12.2022_Lab.AssemblyInfo.cs
+C:\Users\User\Desktop\P515\21.12.2022\21.12.2022_Lab\21.12.2022_Lab\obj\Debug\net7.0\21.12.2022_Lab.csproj.CoreCompileInputs.cache

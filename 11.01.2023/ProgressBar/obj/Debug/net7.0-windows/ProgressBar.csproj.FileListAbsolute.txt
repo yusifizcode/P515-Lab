@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.exe
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.deps.json
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.dll
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.pdb
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.Form1.resources
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.AssemblyInfo.cs
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.dll
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\refint\ProgressBar.dll
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.pdb
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\User\Desktop\P515\11.01.2023\ProgressBar\obj\Debug\net7.0-windows\ref\ProgressBar.dll
